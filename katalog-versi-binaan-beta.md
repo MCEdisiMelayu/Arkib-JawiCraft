@@ -1,6 +1,6 @@
 # <p align="center">Katalog Versi Binaan Beta / Beta Builds' Version Catalog
-<p align="center">✔️ = Full Release / Keluaran Penuh
-<p align="center">⚠️ = Snapshot & Pre-releases / Petikan & Pra-Keluaran
+<p align="center">✔️ = Full Release / Terbitan Penuh
+<p align="center">⚠️ = Snapshot & Pre-releases / Petikan & Pra-Terbitan
 
 [Lokasi kesemua fail pek sumber](https://github.com/Minecraft-EdisiMelayu/Arkib-JawiCraft/tree/main/arkib-versi-binaan-beta)
 
